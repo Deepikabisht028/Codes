@@ -35,7 +35,7 @@ int main()
       }
       l=l*m;
     }
-    for(int i=l/2;i<n;i++)
+    for(int i=l/m;i<n;i++)
     {    if(a[i]==k)
          {  cout<<"The Index of the no. is "<<i;
             return 0;
